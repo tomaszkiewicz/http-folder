@@ -1,0 +1,1 @@
+See the README in [http-folder](https://github.com/AurelienGasser/http-folder)
